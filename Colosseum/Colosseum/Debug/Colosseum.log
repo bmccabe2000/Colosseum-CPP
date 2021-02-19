@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\crawd\OneDrive\Colosseum\Colosseum\Source.cpp(140,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\crawd\OneDrive\Colosseum\Colosseum\Source.cpp(282,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\crawd\OneDrive\Colosseum\Colosseum\Source.cpp(310,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Colosseum.vcxproj -> C:\Users\crawd\OneDrive\Colosseum\Debug\Colosseum.exe
